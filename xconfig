@@ -1,5 +1,0 @@
-Host github-as-git
-  HostName github.com
-  User git
-  IdentityFile c:/Users/mgr/.ssh/git/id_rsa
- 
